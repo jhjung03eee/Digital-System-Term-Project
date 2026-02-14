@@ -1,3 +1,6 @@
+
+![KakaoTalk_20260205_114450113](https://github.com/user-attachments/assets/c3d8fdb3-4872-4a8f-a997-2932fde06d84)
+
 # 🏀 FPGA Basketball Free Throw Game
 
 Digital System Term Project  
