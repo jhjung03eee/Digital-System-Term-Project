@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Nov 26 16:17:47 2025
+# Process ID: 38280
+# Current directory: D:/Term_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent55932 D:\Term_project\Term_project.xpr
+# Log file: D:/Term_project/vivado.log
+# Journal file: D:/Term_project\vivado.jou
+# Running On: Stophoon, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 8247 MB
+#-----------------------------------------------------------
+start_gui

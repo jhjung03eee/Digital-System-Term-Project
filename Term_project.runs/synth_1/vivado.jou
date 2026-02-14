@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Nov 28 16:08:45 2025
+# Process ID         : 37848
+# Current directory  : D:/Term_project/Term_project.runs/synth_1
+# Command line       : vivado.exe -log basketball_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source basketball_top.tcl
+# Log file           : D:/Term_project/Term_project.runs/synth_1/basketball_top.vds
+# Journal file       : D:/Term_project/Term_project.runs/synth_1\vivado.jou
+# Running On         : Stophoon
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+# CPU Frequency      : 2419 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8247 MB
+# Swap memory        : 25769 MB
+# Total Virtual      : 34017 MB
+# Available Virtual  : 9403 MB
+#-----------------------------------------------------------
+source basketball_top.tcl -notrace
