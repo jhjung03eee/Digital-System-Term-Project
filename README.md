@@ -146,6 +146,7 @@ README.md
 
 ## 👨‍💻 Author
 
-Jihoon Jung  
+Jihoon Jung  (jhjung03@skku.edu)
 Department of Electronic & Electrical Engineering  
-Sungkyunkwan University
+Sungkyunkwan University 
+
